@@ -1,0 +1,17 @@
+ToDo
+----
+
+
+1. In about page add following sections:
+
+Skills
+Likes / Dislikes
+Personal Information
+Hobbies
+
+
+2. Create contact page with following sections
+
+Contact - Email, location
+Connect - LinkedIn, Github
+Contact Form - Map, Form
